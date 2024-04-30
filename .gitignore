@@ -1,0 +1,5 @@
+*.tar
+*.png
+*.jpg
+*.jpeg
+*__pycache__

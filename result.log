@@ -1,0 +1,8 @@
+2024-04-24 00:59:43,964  [INFO]  pspnet_res50 Train Start  (train.py:  29)
+2024-04-24 01:01:20,617  [INFO]  pspnet_res50 Train Start  (train.py:  29)
+2024-04-24 01:01:55,099  [INFO]  pspnet_res50 Train Start  (train.py:  29)
+2024-04-24 01:08:56,131  [INFO]  pspnet_res50 Train Start  (train.py:  29)
+2024-04-24 01:10:07,965  [INFO]  pspnet_res50 Train Start  (train.py:  29)
+2024-04-24 01:11:17,610  [INFO]  pspnet_res50 Train Start  (train.py:  29)
+2024-04-24 01:14:02,414  [INFO]  Epoch: 1  Loss: 0.94564,  Dice-Coef:  0.05436  (train.py:  81)
+2024-04-24 01:14:53,258  [INFO]  pspnet_res50 Train Start  (train.py:  29)
