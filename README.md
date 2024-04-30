@@ -1,1 +1,1 @@
-# Brain Segmentation using PSPNet
+# Brain Segmentation using Multinomial Diffusion Models
